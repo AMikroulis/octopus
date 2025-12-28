@@ -119,7 +119,7 @@ This will generate folders (with the same name as the AVI file) that can be used
 
 ## 6. Loading and Navigating Image Stacks
 ### 6.1 Loading Stacks
-Select preprocessed folders (hold CTRL or SHIFT to select multiple) and use "load" Stacks are loaded into memory as 3D NumPy arrays.
+Select preprocessed folders (hold CTRL or SHIFT to select multiple) and use "load". Stacks are loaded into memory as 3D NumPy arrays.
 
 ### 6.2 Navigation
 Use keyboard shortcuts (e.g., A/D for slices, Shift+A/D for stacks) or buttons to switch between stacks and slices. The slice view updates automatically.
