@@ -109,7 +109,7 @@ For example:<br/>
 <b>example-1-ABC0001_L_2025-01-31</b> will match the left eye from subject with ID "example-1-ABC0001", examined on 2025-01-31 (January 31st, 2025)
 
 ### 5.1 Extracting Frames from AVI Files (Batch Preprocessing)
-Open a filder ("open" button) and select AVI files (hold CTRL to select multiple). 
+Open a folder ("open" button) and select AVI files (hold CTRL to select multiple). 
 
 Enable "force redo" to overwrite existing files. 
 
