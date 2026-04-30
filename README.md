@@ -1,4 +1,4 @@
-# OCTOPUS (Optical Coherence Tomography Ocular Pathology by Unsupervised Segmentation)
+# OCTOPUS (Optical Coherence Tomography Ocular Pathology by U-net Segmentation)
 An application for retinal OCT image analysis.
 
 ## 1. Introduction
